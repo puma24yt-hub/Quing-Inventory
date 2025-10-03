@@ -1,0 +1,56 @@
+[
+  {
+    "id": "polo-unisex",
+    "name": "Playera Polo Unisex MacGregor",
+    "stock": 10,
+    "available": true
+  },
+  {
+    "id": "bermuda",
+    "name": "Bermuda MacGregor",
+    "stock": 20,
+    "available": true
+  },
+  {
+    "id": "short-falda",
+    "name": "Short Falda MacGregor",
+    "stock": 15,
+    "available": true
+  },
+  {
+    "id": "bermuda-kinder",
+    "name": "Bermuda Kinder Niña MacGregor",
+    "stock": 20,
+    "available": true
+  },
+  {
+    "id": "playera-edu-fis-nino",
+    "name": "Playera Educación Física NIÑO MacGregor",
+    "stock": 20,
+    "available": true
+  },
+  {
+    "id": "playera-edu-fis-nina",
+    "name": "Playera Educación Física NIÑA MacGregor",
+    "stock": 20,
+    "available": true
+  },
+  {
+    "id": "short-edu-fis",
+    "name": "Short Educación Física MacGregor",
+    "stock": 20,
+    "available": true
+  },
+  {
+    "id": "calcetas-par",
+    "name": "Calcetas (1 par) MacGregor",
+    "stock": 30,
+    "available": true
+  },
+  {
+    "id": "calcetas-kit",
+    "name": "Kit Calcetas (3 pares) MacGregor",
+    "stock": 50,
+    "available": true
+  }
+]
